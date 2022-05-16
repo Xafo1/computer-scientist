@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    font-size: 59px;
+    font-family:'Segoe UI';
+}
+
+p {
+    font-size: 25px;
+    margin-left: 15px;
+    color: white;
+}
+
+p1 {
+    color: white;
+    margin-left: 15px;
+    color: white;
+}
+
+p2 {
+    margin-left: 15px;
+    color: white;
+}
+p3 {
+    margin-left: 15px;
+    color: white;
+}
+p4 {
+    margin-left: 15px;
+    color: white;
+}
+ p5 {
+     margin-left: 20px;
+     font-size: 25px;
+     color: white;
+ }
+ p6 {
+     margin-left: 15px;
+     color: aliceblue;
+ }
+
+ img{
+     width: 50%;
+ }
